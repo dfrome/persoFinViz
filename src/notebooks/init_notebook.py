@@ -2,3 +2,5 @@
 base_raw="../../data/raw/"
 base_processed="../../data/processed/"
 base_models="../../models/"
+base_images="../../images/"
+base_reports="../../reports/"
