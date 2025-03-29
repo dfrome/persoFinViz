@@ -1,0 +1,25 @@
+a CSV file must be in data/raw
+it must have the columns without "()", and can have columns with "()" for more features or future development, or for your own information:
+
+	host
+		name of the fincancial institution (bank, courtier...) at which you desposited the asset
+	pocket
+		name of the fiscal bucket in which the asset is kept. For French juridiction, this is for example PEA, AV (assurance vie), CTO (compte courant) ...
+	(item_id)
+		often the name of the asset, company of the share, ...
+	(subpart)
+		often used to differentiate geographies within one single asset. Example: real-estate-voucher invested in 75% US and 25% Germany => create 2 lines with differentiated subparts
+	type
+		share, bond, fix-term, fix_interest, ...
+	geography
+		country
+	(continent)
+		in case you want to classify countries, or the asset does not tell exact country
+	amount
+		amount estimated in the asset at the day you last updated
+	(date_acquired)
+		date you first invested in this asset line
+	(amount_spent)
+		amount you paid to get the asset at date_acquired
+	(last_date_amount)
+		the day you last updated the "amount" column
