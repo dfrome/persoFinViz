@@ -1,0 +1,28 @@
+host,pocket,(item_id),(subpart),type,geography,amount,(date_acquired),(amount_spent),(last_date_amount),(comments)
+Bank_xy,Saving_plan,,1,shares,US,10000,,,29/03/25,columns in () are not compulsory
+Bank_xy,Saving_plan,,2,shares,India,2500,,,,
+Bank_xy,liquidity,,,cash,,4800,,,,
+Bank_xy,401k,,,bonds,US,2500,,,,
+Bank_xy,401k,,,shares,world,8800,,,,
+Bank_xy,Saving_plan,,3,bonds,US,4150,01/01/21,4000,29/03/25,
+Bank_xy,Saving_plan,,4,bonds,Private_eq,3000,,,,
+Bank_xy,Saving_plan,,5,shares,US,750,,,,
+Bank_xy,Saving_plan,,6,shares,India,750,,,,
+Bank_xy,Saving_plan,,7,shares,Switzerland,3000,,,,this is my comment
+Bank_xy,liquidity,,"1,00 %",Fixed-rate,,23000,,,,
+Bank_xy,fix_term,,"2,50 %",Fixed-rate,,25000,,,,
+Bank_xy,fix_term,,"1,70 %",Fixed-rate,,12700,,,,
+My_other_bank,Saving_plan,,,shares,world,31000,,,01/01/25,
+My_other_bank,Saving_plan,,,shares,France,3500,,,,
+My_other_bank,liquidity,,"1,00 %",Fixed-rate,,5000,,,,
+My_other_bank,liquidity,,"2,20 %",Fixed-rate,,6000,,,,
+My_other_bank,Saving_plan,,,shares,Asia,11450,,,,
+My_other_bank,Saving_plan,,,bonds,Europe,5300,,,,
+my_crypto_wallet,custodian,BTC,,crypto,,2000,,,,
+my_crypto_wallet,custodian,ETH,,crypto,,600,,,,
+my_crypto_wallet,custodian,AVAX,,crypto,,2000,,,,
+my_crypto_wallet,liquidity,USDC,,cash,,3000,,,,stablecoin you can pay with
+my_crypto_wallet,custodian,SHITCOIN,,crypto,,2500,,,,
+Custodian,direct,,,real estate,US,11000,,,,
+Custodian,direct,,,real estate,Switzerland,4000,,,,
+Custodian,direct,,,real estate,Germany,4000,,,,
