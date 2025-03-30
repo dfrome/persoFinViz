@@ -6,6 +6,19 @@ Display your Personal Financial Visualization, to touch base on how much you hav
 
 The goal is to be able to make decisions on where to allocate your next investment.
 ***
+Suggestions on how to install :  
+* You should have python installed on your computer  
+* Import all files from github to your computer
+* Create a virtual environment and install required packages:
+
+<pre>```bash
+python -m venv my_env
+source my_env/bin/activate  # On Windows: test_env\Scripts\activate
+pip install -r requirements.txt
+</pre>
+
+***
+
 How to use this ?  
 1/ In data/raw, create an input file with the same format as the example you'll find there  
 2/ In src/notebook, launch visualize_01.ipynb with jupyter notebook (or inside VScode), set your file name as instructed  
