@@ -5,7 +5,7 @@ Bank_xy,liquidity,,,cash,,4800,,,,
 Bank_xy,401k,,,bonds,US,2500,,,,
 Bank_xy,401k,,,shares,world,8800,,,,
 Bank_xy,Saving_plan,,3,bonds,US,4150,01/01/21,4000,29/03/25,
-Bank_xy,Saving_plan,,4,bonds,Private_eq,3000,,,,
+Bank_xy,Saving_plan,,4,Private_eq,Germany,3000,,,,
 Bank_xy,Saving_plan,,5,shares,US,750,,,,
 Bank_xy,Saving_plan,,6,shares,India,750,,,,
 Bank_xy,Saving_plan,,7,shares,Switzerland,3000,,,,this is my comment
