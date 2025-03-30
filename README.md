@@ -12,3 +12,5 @@ How to use this ?
 3/ See your charts in images/  
 ***
 ![Alt Text](docs/example.png)
+  
+![Alt Text](docs/example_map_world.png)
