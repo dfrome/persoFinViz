@@ -1,0 +1,34 @@
+You should have python installed on your computer
+
+After importing all files from github to your computer,
+create a virtual environment and install required packages:
+
+python -m venv my_env
+source my_env/bin/activate  # On Windows: test_env\Scripts\activate
+pip install -r requirements.txt
+
+
+Then run pythons scripts:
+
+cd src
+python visualize_01.py
+python visualize_map.py
+
+
+
+
+
+
+
+
+How is it started by developper ?
+C:\Users\local\anaconda\Scripts\activate persoFinViz
+cd F:\projPerso\persoFinViz\src
+python visualize_01.py
+python visualize_map.py
+
+
+How is requirements.txt created ? (from python scripts, not notebooks)
+pip install pipreqs
+cd F:\projPerso\persoFinViz\src
+pipreqs .
