@@ -11,12 +11,12 @@ Suggestions on how to install :
 * Import all files from github to your computer
 * Create a virtual environment and install required packages:
 
-<pre>```shell
+```shell
 python -m venv my_env
 source my_env/bin/activate  # On Windows: test_env\Scripts\activate
 pip install -r requirements.txt
 ```
-</pre>
+
 
 ***
 
