@@ -15,7 +15,7 @@ for file in csv_files:
 # %%
 # enter the file name you want to work with
 my_data_file = 'example_fin_data_v03'  # default example
-# my_data_file = 'your_file'
+my_data_file = 'status_20250331'
 
 print(f"\nNow processing: {my_data_file} as defined in the variable my_data_file of file {os.path.basename(__file__)}\n")
 

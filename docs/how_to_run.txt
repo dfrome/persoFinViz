@@ -24,6 +24,7 @@ python visualize_map.py
 How is it started by developper ?
 C:\Users\local\anaconda\Scripts\activate persoFinViz
 cd F:\projPerso\persoFinViz\src
+F:
 python visualize_01.py
 python visualize_map.py
 

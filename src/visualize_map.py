@@ -15,7 +15,7 @@ for file in csv_files:
 # %%
 # enter the file name (no extension) you want to work with
 my_data_file = 'example_fin_data_v03'  # default example
-# my_data_file = 'your_file'
+my_data_file = 'status_20250331'
 
 map_definition='50m' # '110m', '50m', '10m' : resolution of the map, as downloaded from https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
 
